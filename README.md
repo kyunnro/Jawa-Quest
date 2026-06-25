@@ -172,18 +172,6 @@ com.example.aksarajawa
 
 ---
 
-## 🙏 Kontribusi
-
-Kontribusi selalu diterima dengan tangan terbuka! Jika kamu ingin berkontribusi:
-
-1. Fork repositori ini
-2. Buat branch baru (`git checkout -b fitur-keren`)
-3. Commit perubahan (`git commit -m 'feat: tambah fitur keren'`)
-4. Push ke branch (`git push origin fitur-keren`)
-5. Buka Pull Request
-
----
-
 ## 📄 Lisensi
 
 Distributed under the MIT License. See `LICENSE` for more information.
