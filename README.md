@@ -9,6 +9,11 @@
     berbasis Android dengan Kotlin & Jetpack Compose
   </p>
   <p>
+    <a href="https://github.com/kyunnro/Jawa-Quest/releases/download/v1.0.0/JavaQuest.apk">
+      <img src="https://img.shields.io/badge/Download%20APK-v1.0.0-00C853?logo=android&logoColor=white&style=for-the-badge">
+    </a>
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Kotlin-2.1.0-7F52FF?logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Compose-BOM%202024.02.01-4285F4?logo=jetpackcompose&logoColor=white">
     <img src="https://img.shields.io/badge/Android-API%2024%E2%80%9336-3DDC84?logo=android&logoColor=white">
