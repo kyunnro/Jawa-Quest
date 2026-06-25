@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501380088755",
+    "firebase_url": "https://javaquest-8f258-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "javaquest-8f258",
+    "storage_bucket": "javaquest-8f258.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501380088755:android:291bf6734b67570d9881c6",
+        "android_client_info": {
+          "package_name": "com.example.aksarajawa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRatU6uX_U82nU5nk7mevwwCdewfc2-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

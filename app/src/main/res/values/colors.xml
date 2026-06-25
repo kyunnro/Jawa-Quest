@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- UI/UX Specification v1.1 Colors -->
+    <color name="primary_purple">#7C3AED</color>
+    <color name="primary_light">#C4B5FD</color>
+    <color name="bg_soft_purple">#F9FAFB</color>
+    <color name="accent_purple">#6D28D9</color>
+    <color name="text_dark">#1F2937</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_500">#6B7280</color>
+
+    <!-- Game Feedback -->
+    <color name="correct_green">#10B981</color>
+    <color name="wrong_red">#EF4444</color>
+    <color name="heart_red">#F43F5E</color>
+
+    <color name="primary_jawa">#7C3AED</color>
+    <color name="secondary_jawa">#C4B5FD</color>
+</resources>
